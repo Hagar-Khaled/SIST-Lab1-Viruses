@@ -1,15 +1,7 @@
-'''
-this is dummy file to test V3.py
-'''
-
-
-print("Hello from test script!")
-
 if __name__ == "__main__":
-    print("Running main!")
-
-
+    print("victum of infection")
 # --- BEGIN VIRUS ---
+
 
 import sys,os
 
